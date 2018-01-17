@@ -1,0 +1,10 @@
+/Workspace/DeltaX/DeltaXApi/bin/Debug/netcoreapp2.0/DeltaXApi.deps.json
+/Workspace/DeltaX/DeltaXApi/bin/Debug/netcoreapp2.0/DeltaXApi.runtimeconfig.json
+/Workspace/DeltaX/DeltaXApi/bin/Debug/netcoreapp2.0/DeltaXApi.runtimeconfig.dev.json
+/Workspace/DeltaX/DeltaXApi/bin/Debug/netcoreapp2.0/DeltaXApi.dll
+/Workspace/DeltaX/DeltaXApi/bin/Debug/netcoreapp2.0/DeltaXApi.pdb
+/Workspace/DeltaX/DeltaXApi/obj/Debug/netcoreapp2.0/DeltaXApi.csproj.CoreCompileInputs.cache
+/Workspace/DeltaX/DeltaXApi/obj/Debug/netcoreapp2.0/DeltaXApi.AssemblyInfoInputs.cache
+/Workspace/DeltaX/DeltaXApi/obj/Debug/netcoreapp2.0/DeltaXApi.AssemblyInfo.cs
+/Workspace/DeltaX/DeltaXApi/obj/Debug/netcoreapp2.0/DeltaXApi.dll
+/Workspace/DeltaX/DeltaXApi/obj/Debug/netcoreapp2.0/DeltaXApi.pdb
